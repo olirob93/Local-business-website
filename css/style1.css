@@ -1,0 +1,30 @@
+html {
+	scroll-behavior: smooth;
+}
+
+#home {
+	min-height: 900px;
+	background-size: cover;
+    background-position: center;
+	background-image: linear-gradient(rgba(0, 0, 0, 0.60), rgba(0, 0, 0, 0.60)), url(../images/paintbrushes.jpg);
+	background-repeat: no-repeat;
+}
+
+.home-inner {
+	padding-top: 325px;
+}
+
+.home-inner p {
+	font-size: 25px;
+}
+
+#services .sub-head,
+#contact .sub-head {
+	font-size: 25px;
+}
+
+
+
+
+
+
